@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Concatenation of Strings, Applying a Discount, Quotient and Remainder/1.0.0": {
+        "runtime": {
+          "Concatenation of Strings, Applying a Discount, Quotient and Remainder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Concatenation of Strings, Applying a Discount, Quotient and Remainder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
