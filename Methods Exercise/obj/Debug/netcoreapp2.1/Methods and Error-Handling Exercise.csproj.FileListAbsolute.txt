@@ -1,0 +1,11 @@
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Methods and Error-Handling Exercise\bin\Debug\netcoreapp2.1\Methods and Error-Handling Exercise.deps.json
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Methods and Error-Handling Exercise\bin\Debug\netcoreapp2.1\Methods and Error-Handling Exercise.runtimeconfig.json
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Methods and Error-Handling Exercise\bin\Debug\netcoreapp2.1\Methods and Error-Handling Exercise.runtimeconfig.dev.json
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Methods and Error-Handling Exercise\bin\Debug\netcoreapp2.1\Methods and Error-Handling Exercise.dll
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Methods and Error-Handling Exercise\bin\Debug\netcoreapp2.1\Methods and Error-Handling Exercise.pdb
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Methods and Error-Handling Exercise\obj\Debug\netcoreapp2.1\Methods and Error-Handling Exercise.csprojAssemblyReference.cache
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Methods and Error-Handling Exercise\obj\Debug\netcoreapp2.1\Methods and Error-Handling Exercise.csproj.CoreCompileInputs.cache
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Methods and Error-Handling Exercise\obj\Debug\netcoreapp2.1\Methods and Error-Handling Exercise.AssemblyInfoInputs.cache
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Methods and Error-Handling Exercise\obj\Debug\netcoreapp2.1\Methods and Error-Handling Exercise.AssemblyInfo.cs
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Methods and Error-Handling Exercise\obj\Debug\netcoreapp2.1\Methods and Error-Handling Exercise.dll
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Methods and Error-Handling Exercise\obj\Debug\netcoreapp2.1\Methods and Error-Handling Exercise.pdb
