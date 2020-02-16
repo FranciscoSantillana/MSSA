@@ -1,0 +1,11 @@
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Errors and Exceptions\obj\Debug\netcoreapp2.1\Errors and Exceptions.csprojAssemblyReference.cache
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Errors and Exceptions\obj\Debug\netcoreapp2.1\Errors and Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Errors and Exceptions\obj\Debug\netcoreapp2.1\Errors and Exceptions.AssemblyInfoInputs.cache
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Errors and Exceptions\obj\Debug\netcoreapp2.1\Errors and Exceptions.AssemblyInfo.cs
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Errors and Exceptions\bin\Debug\netcoreapp2.1\Errors and Exceptions.deps.json
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Errors and Exceptions\bin\Debug\netcoreapp2.1\Errors and Exceptions.runtimeconfig.json
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Errors and Exceptions\bin\Debug\netcoreapp2.1\Errors and Exceptions.runtimeconfig.dev.json
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Errors and Exceptions\bin\Debug\netcoreapp2.1\Errors and Exceptions.dll
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Errors and Exceptions\bin\Debug\netcoreapp2.1\Errors and Exceptions.pdb
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Errors and Exceptions\obj\Debug\netcoreapp2.1\Errors and Exceptions.dll
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\Errors and Exceptions\obj\Debug\netcoreapp2.1\Errors and Exceptions.pdb
