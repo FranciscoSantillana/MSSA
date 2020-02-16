@@ -1,0 +1,10 @@
+C:\Users\fsant\source\repos\BMI Calculator\bin\Debug\netcoreapp2.1\BMI Calculator.deps.json
+C:\Users\fsant\source\repos\BMI Calculator\bin\Debug\netcoreapp2.1\BMI Calculator.runtimeconfig.json
+C:\Users\fsant\source\repos\BMI Calculator\bin\Debug\netcoreapp2.1\BMI Calculator.runtimeconfig.dev.json
+C:\Users\fsant\source\repos\BMI Calculator\bin\Debug\netcoreapp2.1\BMI Calculator.dll
+C:\Users\fsant\source\repos\BMI Calculator\bin\Debug\netcoreapp2.1\BMI Calculator.pdb
+C:\Users\fsant\source\repos\BMI Calculator\obj\Debug\netcoreapp2.1\BMI Calculator.csprojAssemblyReference.cache
+C:\Users\fsant\source\repos\BMI Calculator\obj\Debug\netcoreapp2.1\BMI Calculator.AssemblyInfoInputs.cache
+C:\Users\fsant\source\repos\BMI Calculator\obj\Debug\netcoreapp2.1\BMI Calculator.AssemblyInfo.cs
+C:\Users\fsant\source\repos\BMI Calculator\obj\Debug\netcoreapp2.1\BMI Calculator.dll
+C:\Users\fsant\source\repos\BMI Calculator\obj\Debug\netcoreapp2.1\BMI Calculator.pdb
