@@ -1,0 +1,7 @@
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\EX1A- Mathematical Formulas\obj\Debug\EX1A- Mathematical Formulas.csprojAssemblyReference.cache
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\EX1A- Mathematical Formulas\obj\Debug\EX1A- Mathematical Formulas.csproj.CoreCompileInputs.cache
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\EX1A- Mathematical Formulas\bin\Debug\EX1A- Mathematical Formulas.exe.config
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\EX1A- Mathematical Formulas\bin\Debug\EX1A- Mathematical Formulas.exe
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\EX1A- Mathematical Formulas\bin\Debug\EX1A- Mathematical Formulas.pdb
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\EX1A- Mathematical Formulas\obj\Debug\EX1A- Mathematical Formulas.exe
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\EX1A- Mathematical Formulas\obj\Debug\EX1A- Mathematical Formulas.pdb

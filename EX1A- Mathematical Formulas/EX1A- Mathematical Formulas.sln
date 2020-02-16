@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX1A- Mathematical Formulas", "EX1A- Mathematical Formulas.csproj", "{A14A5C6F-5B80-4DEE-857D-D7CC0CFD7C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A14A5C6F-5B80-4DEE-857D-D7CC0CFD7C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14A5C6F-5B80-4DEE-857D-D7CC0CFD7C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14A5C6F-5B80-4DEE-857D-D7CC0CFD7C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14A5C6F-5B80-4DEE-857D-D7CC0CFD7C24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A427CD4-C797-463B-9E75-28F9AD2BB7B4}
+	EndGlobalSection
+EndGlobal
