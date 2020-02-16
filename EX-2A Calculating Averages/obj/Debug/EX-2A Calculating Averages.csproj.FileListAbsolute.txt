@@ -1,0 +1,7 @@
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\EX-2A Calculating Averages\bin\Debug\EX-2A Calculating Averages.exe.config
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\EX-2A Calculating Averages\bin\Debug\EX-2A Calculating Averages.exe
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\EX-2A Calculating Averages\bin\Debug\EX-2A Calculating Averages.pdb
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\EX-2A Calculating Averages\obj\Debug\EX-2A Calculating Averages.csprojAssemblyReference.cache
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\EX-2A Calculating Averages\obj\Debug\EX-2A Calculating Averages.csproj.CoreCompileInputs.cache
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\EX-2A Calculating Averages\obj\Debug\EX-2A Calculating Averages.exe
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA220\EX-2A Calculating Averages\obj\Debug\EX-2A Calculating Averages.pdb
