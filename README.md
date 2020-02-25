@@ -21,3 +21,5 @@ Mathematical Expressions: On this project I learned how to write out four differ
 Although a simple task for many, I had fun learning how C# interacts with operators and mathematical expressions.
 
 Errors and Exceptions: Added errors an exceptions to my original "Calculating Averages" solution.
+
+Inheritance and Extensions: Worked with simple inheritance and extensions to further understand how it works.

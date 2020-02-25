@@ -1,0 +1,11 @@
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\ShouldntExist\obj\Debug\netcoreapp3.1\Inheritance and Extensions.csprojAssemblyReference.cache
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\ShouldntExist\obj\Debug\netcoreapp3.1\Inheritance and Extensions.AssemblyInfoInputs.cache
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\ShouldntExist\obj\Debug\netcoreapp3.1\Inheritance and Extensions.AssemblyInfo.cs
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\ShouldntExist\bin\Debug\netcoreapp3.1\Inheritance and Extensions.exe
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\ShouldntExist\bin\Debug\netcoreapp3.1\Inheritance and Extensions.deps.json
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\ShouldntExist\bin\Debug\netcoreapp3.1\Inheritance and Extensions.runtimeconfig.json
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\ShouldntExist\bin\Debug\netcoreapp3.1\Inheritance and Extensions.runtimeconfig.dev.json
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\ShouldntExist\bin\Debug\netcoreapp3.1\Inheritance and Extensions.dll
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\ShouldntExist\bin\Debug\netcoreapp3.1\Inheritance and Extensions.pdb
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\ShouldntExist\obj\Debug\netcoreapp3.1\Inheritance and Extensions.dll
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\ShouldntExist\obj\Debug\netcoreapp3.1\Inheritance and Extensions.pdb
