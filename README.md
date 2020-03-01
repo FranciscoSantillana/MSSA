@@ -1,5 +1,5 @@
-# MSSA
-Everything I worked on at the start of my programming adventure
+# Microsoft Systems and Software Academy (MSSA)
+Everything I worked on at the start of my programming adventure.
 
 Math App: This Math App exercise is something I am proud of. Overall it is a simple calculator for the user. 
 I used a class library and created a calculator class for my first time. 
