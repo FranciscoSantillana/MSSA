@@ -1,0 +1,26 @@
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\bin\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).exe
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\bin\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).deps.json
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\bin\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).runtimeconfig.json
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\bin\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).runtimeconfig.dev.json
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\bin\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).dll
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\bin\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).pdb
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\obj\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).csprojAssemblyReference.cache
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\obj\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).AssemblyInfoInputs.cache
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\obj\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).AssemblyInfo.cs
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\obj\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).dll
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\obj\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).pdb
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\bin\Debug\netcoreapp3.1\NetCoreAudio.dll
+C:\Users\Francisco\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\obj\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).csproj.CopyComplete
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\bin\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).exe
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\bin\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).deps.json
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\bin\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).runtimeconfig.json
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\bin\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).runtimeconfig.dev.json
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\bin\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).dll
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\bin\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).pdb
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\bin\Debug\netcoreapp3.1\NetCoreAudio.dll
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\obj\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).csprojAssemblyReference.cache
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\obj\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).AssemblyInfoInputs.cache
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\obj\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).AssemblyInfo.cs
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\obj\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).csproj.CopyComplete
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\obj\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).dll
+C:\Users\fsant\Documents\Visual Studio 2019\Projects\ISTA322 ASP\Military Unit (Implementing Inheritance)\obj\Debug\netcoreapp3.1\Military Unit (Implementing Inheritance).pdb
