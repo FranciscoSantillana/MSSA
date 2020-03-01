@@ -23,3 +23,5 @@ Although a simple task for many, I had fun learning how C# interacts with operat
 Errors and Exceptions: Added errors an exceptions to my original "Calculating Averages" solution.
 
 Inheritance and Extensions: Worked with simple inheritance and extensions to further understand how it works.
+
+Military Unit (Implementing Inheritance): I applied my knowledge on the fundamentals of creating base and derived class, including the usage of virtual methods and learning how to override them. The methods basically returned strings for the sake of understanding how the fundamentals work.
