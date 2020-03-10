@@ -36,3 +36,6 @@ I applied my knowledge on the fundamentals of creating base and derived class, i
 
 ## CLassPartyInvites
 I learned the very basics of MVC, separation of concerns, HTML5, and CSS while working on an RSVP-based website.
+
+## Razor
+Understanding how Razor allows HTML and C# to cooperate. Learned how to use decision statements with Razor on ASP.NET Core Web Application.
