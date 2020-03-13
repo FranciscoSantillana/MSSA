@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fsant\\Documents\\Visual Studio 2019\\Projects\\ISTA322 ASP\\PasswordHashingAuthentication\\PasswordHashingAuthentication.csproj",
+      "projectUniqueName": "C:\\Users\\fsant\\Documents\\GitHub\\MSSA\\PasswordHashingAuthentication\\PasswordHashingAuthentication.csproj",
       "projectName": "PasswordHashingAuthentication",
-      "projectPath": "C:\\Users\\fsant\\Documents\\Visual Studio 2019\\Projects\\ISTA322 ASP\\PasswordHashingAuthentication\\PasswordHashingAuthentication.csproj",
+      "projectPath": "C:\\Users\\fsant\\Documents\\GitHub\\MSSA\\PasswordHashingAuthentication\\PasswordHashingAuthentication.csproj",
       "packagesPath": "C:\\Users\\fsant\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fsant\\Documents\\Visual Studio 2019\\Projects\\ISTA322 ASP\\PasswordHashingAuthentication\\obj\\",
+      "outputPath": "C:\\Users\\fsant\\Documents\\GitHub\\MSSA\\PasswordHashingAuthentication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
