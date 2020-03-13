@@ -39,3 +39,6 @@ I learned the very basics of MVC, separation of concerns, HTML5, and CSS while w
 
 ## Razor
 Understanding how Razor allows HTML and C# to cooperate. Learned how to use decision statements with Razor on ASP.NET Core Web Application.
+
+## PasswordHashingAuthentication
+In this project I learned how to take a hashed password and store it in a list. My list was composed of "Account" objects with properties of username and password. With the accounts stored in a list I was able to compare usernames and passwords and authenticate accounts.
